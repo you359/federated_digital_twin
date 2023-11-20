@@ -1,0 +1,17 @@
+{
+   "@context":{
+      "name": "https://schema.org/name",
+      "title": "https://schema.org/title",
+      "description": "https://schema.org/description",
+      "DigitalTwinPrototype": "https://ontology.fdt.com/fdt#DigitalTwinPrototype",
+      "DigitalTwinBehavior": "https://ontology.fdt.com/fdt#DigitalTwinBehavior",
+      "Task": "https://ontology.fdt.com/fdt#Task",
+      "Category": "https://ontology.fdt.com/fdt#Category",
+      "Category2Category": "https://ontology.fdt.com/fdt#Category2Category",
+      "refDigitalTwinPrototype": "https://ontology.fdt.com/fdt#refDigitalTwinPrototype",
+      "refTask": "https://ontology.fdt.com/fdt#refTask",
+      "refCategory": "https://ontology.fdt.com/fdt#refCategory",
+      "refSrcCategory": "https://ontology.fdt.com/fdt#refSrcCategory",
+      "refDstCategory": "https://ontology.fdt.com/fdt#refDstCategory"
+   }
+}
