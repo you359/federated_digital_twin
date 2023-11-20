@@ -3,6 +3,7 @@
       "name": "https://schema.org/name",
       "title": "https://schema.org/title",
       "description": "https://schema.org/description",
+      "dti_accesspoints": "https://ontology.fdt.com/fdt#dti_accesspoints",
       "DigitalTwinPrototype": "https://ontology.fdt.com/fdt#DigitalTwinPrototype",
       "DigitalTwinBehavior": "https://ontology.fdt.com/fdt#DigitalTwinBehavior",
       "Task": "https://ontology.fdt.com/fdt#Task",
